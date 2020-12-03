@@ -1,0 +1,11 @@
+1. Create a module with help of notepad and  write  print statements 
+using  f literals and  .format consuming  the  ten varaibale  
+which should have  both numbers and  string  with atleast one  
+mathematical operationexecute it
+
+
+# Create  two module with help of notepad and  write  print statements using  
+f literals and  .format
+#  consuming  the  twenty varaibale  which should have  both numbers and  
+string  with atleast one  mathematical operation
+# execute it
